@@ -2,13 +2,13 @@
 
 - [Research Rabbit](www.researchrabbit.ai) has a great Zotero integration and can help find papers with a nice graphical interface:
 
-![research-rabbit.png](research-rabbit.png)
+![research-rabbit.png](./media/research-rabbit.png)
 
 - [Citation Gecko](https://citationgecko.azurewebsites.net/) has a similar vibe but works in slightly different circumstances
 
 - [Google Scholar PDF Reader](https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp) plugin for Chrome/Chromium browsers finds references in PDFs (even ancient ones) quickly. Here's one from @naka_spotentials_1966:
 
-![google-scholar-pdf.png](google-scholar-pdf.png)
+![google-scholar-pdf.png](./media/google-scholar-pdf.png)
 
 If you're interested in how these and similar tools work, where they draw their resources from and how transparent they are, this article gives a good overview:
 

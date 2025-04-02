@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Other helpful research stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Other helpful research stuff"
             }
           }
         ],
@@ -206,8 +206,8 @@
   "active": "32f2485baf9404c0",
   "lastOpenFiles": [
     "Basic Obsidian functionality.md",
-    "Readme.md",
     "Other helpful research stuff.md",
+    "Readme.md",
     "export.json",
     "export.json.bib",
     "templates/tag-template.md",
