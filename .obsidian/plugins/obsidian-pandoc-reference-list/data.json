@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1743578286838
+      "lastUpdate": 1743582126741
     }
   ],
   "renderCitations": true,
@@ -14,5 +14,6 @@
   "pullFromZotero": true,
   "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
   "enableCiteKeyCompletion": true,
-  "hideLinks": true
+  "hideLinks": true,
+  "pathToBibliography": "export.bib"
 }
