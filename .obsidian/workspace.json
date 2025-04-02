@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "82032d1ee3e00698",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e537cdf49cf66b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01780fea608202c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/person-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "person-template"
+            }
+          },
+          {
+            "id": "39c184b90577294b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "32f2485baf9404c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other helpful research stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Other helpful research stuff"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46c35d5c036647e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c835d440fb7fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d117ad2977bc15cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7522e2a6254a5517",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#this_is_a_tag",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f39da2cc90bc23fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e31840ec0bdc36b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5b6832fa493319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5907a931d9fc1fc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Other helpful research stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Other helpful research stuff"
+            }
+          },
+          {
+            "id": "f39069f3ddc5d9ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Other helpful research stuff.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Other helpful research stuff"
+            }
+          },
+          {
+            "id": "f293c77668fe43cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71f01d95bc42fdb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Other helpful research stuff.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Other helpful research stuff"
+            }
+          },
+          {
+            "id": "d6c204bc9f6a9b42",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d117ad2977bc15cb",
+  "lastOpenFiles": [
+    "templates/tag-template.md",
+    "people/person-template.md",
+    "journals/journal-template.md",
+    "templates/journal-article-template.md",
+    "templates",
+    "people/W. a. H. Rushton.md",
+    "people/K. I. Naka.md",
+    "people",
+    "media/Zotero_export_3.png",
+    "media/Zotero_export_2.png",
+    "media/zotero_export_1.png",
+    "media/zotero-search.png",
+    "media/setting-templates-folder.png",
+    "media/research-rabbit.png",
+    "media/reference_list.png",
+    "media/Pandoc_refs_02.png",
+    "media/Pandoc_refs_01.png",
+    "media/pandoc-reference-note.png",
+    "media",
+    "README.md",
+    "LICENSE",
+    "Basic Obsidian functionality.md",
+    "Readme.md",
+    "Untitled.canvas",
+    "Other helpful research stuff.md",
+    "File.md",
+    "link.md",
+    "media 1",
+    "www.zotero.org.md",
+    "articles/@naka_spotentials_1966.md",
+    "journals/The Journal of Physiology.md",
+    "export.json",
+    "templates/dataview-template.md",
+    "journals",
+    "articles",
+    "pdfs"
+  ]
+}
