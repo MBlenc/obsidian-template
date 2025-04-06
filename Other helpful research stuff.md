@@ -42,3 +42,10 @@ If you're interested in how these and similar tools work, where they draw their 
 	- Code editor (alternative to [RStudio](https://posit.co/download/rstudio-desktop/) with more extensibility, more Python support but slightly worse R support)
 	- A version of [VSCode](https://code.visualstudio.com/) that is optimised for working in R or Python
 	- Still early in development (a bit buggy)
+
+## Other Overviews
+
+- [Comprehensive Academic Workflow](https://chris-grieser.de/2021/12/20/comprehensive-academic-workflow.html)
+	- Great overview outlining many of the pros and cons of working in Markdown
+   	- Outlines alternative methods for many aspects of a workflow
+	- A little overcomplicating
